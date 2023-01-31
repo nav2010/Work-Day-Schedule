@@ -24,7 +24,7 @@ You'll need to use the Moment.js library to work with date and time. Be sure to 
 
 
 
-# Depoloyment gif
+# Deployment gif
 ![](/assets/05-third-party-apis-homework-demo.gif)
 
 
